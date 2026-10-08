@@ -1,11 +1,15 @@
-# Hi 👋 I'm Nha
+# Hi, I'm Nha 👋
 
 🎙️ **AI/ML Engineer** exploring how machines can **listen, speak, see, reason, and communicate**.
+
+<p align="center">
+  <img src="assets/gif.gif" width="350">
+</p>
 
 ### 🔭 Areas of Interest
 
 - 🎙️ **Speech AI** — ASR, TTS, speech enhancement & generative speech
-- 🤖 **Multimodal Multi-Agent Systems** — LLMs, agents & model orchestration
+- 🤖 **Multi-Agent Systems** — LLMs, agents & model orchestration
 - 🧠 **Multimodal AI** — connecting speech, language & vision
 - 💬 **Human-AI Communication** — building AI systems that can interact naturally
 
